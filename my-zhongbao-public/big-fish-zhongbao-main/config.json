@@ -1,0 +1,13 @@
+{
+<<<<<<< HEAD
+    "use_config":false,
+    "start_time": "2025-08-21 00:00:00",
+    "end_time": "2025-08-21 18:59:59",
+    "max_pages": 80
+=======
+    "use_config": false,
+    "start_time": "2025-06-08 19:00:00",
+    "end_time": "2025-06-08 23:59:59",
+    "max_pages": 100
+>>>>>>> 605ebb79ddaf49236da455dd4c063f96f24ff1d6
+}
